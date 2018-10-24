@@ -1,0 +1,31 @@
+Ejercicios IF – Else o Switch
+
+Crear una aplicación .net core que pida un numero del 1 al 5 y que imprima si es Primo.
+
+Crear una aplicación que pida el ingreso de un numero y que indique si es par o impar.
+
+Crear una aplicación que pida un número del 1 al 7 y diga el día de la semana correspondiente en String.
+
+Crear una aplicación que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+
+Crear una aplicación que pida 3 números y los muestre en pantalla de menor a mayor.
+
+Crear una aplicación que pida un número y diga si es positivo o negativo.
+
+Crear una aplicación que pida una letra y detecte si es una vocal.
+
+Crear una aplicación que pida 10 números y diga cuál es el mayor y cual el menor.
+
+Crear una aplicación que pida tres números e indicar si el tercero es igual a la suma del primero y el segundo.
+
+Hacer una calculadora que pida un operación(suma, resta, multiplicación, división y potencia) y luego 2 números para resolver la operación.
+
+Crear una aplicación que calcule el aumento de sueldo que le corresponde al trabajador de una empresa que cobra 50.000 soles anuales, la aplicación debe poder realizar los siguientes cálculos:
+
+a. Si lleva más de 10 años en la empresa se le aplica un aumento del 10%.
+
+b. Si lleva menos de 10 años pero más que 5 se le aplica un aumento del 7%.
+
+c. Si lleva menos de 5 años pero más que 3 se le aplica un aumento del 5%.
+
+d. Si lleva menos de 3 años se le aplica un aumento del 3%.

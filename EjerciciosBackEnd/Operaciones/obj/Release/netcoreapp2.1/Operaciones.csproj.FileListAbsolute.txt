@@ -1,0 +1,9 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\bin\Release\netcoreapp2.1\Operaciones.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\bin\Release\netcoreapp2.1\Operaciones.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\bin\Release\netcoreapp2.1\Operaciones.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\operacionesBasicas\Operaciones\obj\Release\netcoreapp2.1\Operaciones.pdb

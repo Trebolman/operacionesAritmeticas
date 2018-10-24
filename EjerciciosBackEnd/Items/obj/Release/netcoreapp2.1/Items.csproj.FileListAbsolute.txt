@@ -1,0 +1,8 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\bin\Release\netcoreapp2.1\Items.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\bin\Release\netcoreapp2.1\Items.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\bin\Release\netcoreapp2.1\Items.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\obj\Release\netcoreapp2.1\Items.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\obj\Release\netcoreapp2.1\Items.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\obj\Release\netcoreapp2.1\Items.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\obj\Release\netcoreapp2.1\Items.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tarea1\EjerciciosBackEnd\Items\obj\Release\netcoreapp2.1\Items.pdb
