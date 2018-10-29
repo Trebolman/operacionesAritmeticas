@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EjerciciosAritmeticos/1.0.0": {
+        "dependencies": {
+          "Metodos": "1.0.0",
+          "operacionesAritmeticas": "1.0.0"
+        },
+        "runtime": {
+          "EjerciciosAritmeticos.dll": {}
+        }
+      },
+      "Metodos/1.0.0": {
+        "runtime": {
+          "Metodos.dll": {}
+        }
+      },
+      "operacionesAritmeticas/1.0.0": {
+        "runtime": {
+          "operacionesAritmeticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjerciciosAritmeticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "operacionesAritmeticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

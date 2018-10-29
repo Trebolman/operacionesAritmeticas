@@ -1,0 +1,16 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\EjerciciosAritmeticos.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\EjerciciosAritmeticos.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\EjerciciosAritmeticos.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\EjerciciosAritmeticos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\EjerciciosAritmeticos.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\Metodos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\operacionesAritmeticas.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\Metodos.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\bin\Debug\netcoreapp2.1\operacionesAritmeticas.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.csproj.CopyComplete
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\operacionesAritmeticas\EjerciciosAritmeticos\EjerciciosAritmeticos\obj\Debug\netcoreapp2.1\EjerciciosAritmeticos.pdb
